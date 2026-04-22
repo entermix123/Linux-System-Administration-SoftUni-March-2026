@@ -4,6 +4,7 @@ Content
 
 - [Section 3 Introduction to Linux](#section-3-introduction-to-linux)
   - [Install Linux on Oracle VirtualBox](#install-linux-on-oracle-virtualbox)
+    - [Install Debian](#install-debian)
   - [Create and use Vurtual Machine Template](#create-and-use-vurtual-machine-template)
   - [Manage AlmaLinux VM](#manage-almalinux-vm)
 
@@ -21,6 +22,8 @@ Donload and install Oracle VirtualBox - https://www.virtualbox.org/
 Download Linux Debian install image - https://www.debian.org/
 
 Create virtual machine on VirtualBox
+
+### Install Debian
 
 Create Virtual machine frame
 
